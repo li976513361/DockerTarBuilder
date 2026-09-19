@@ -18,3 +18,8 @@ https://www.bilibili.com/video/BV1EZ421M7mL
 https://github.com/wukongdaily/OrangePiShell
 ## 在哪里可以搜索或查询docker镜像的详细信息
 ### [查询镜像的详细信息 点击这里直达](https://docker.fxxk.dedyn.io/)
+
+
+## Personal maintenance
+
+See [MAINTENANCE.md](MAINTENANCE.md) for this fork's update and rollback checklist.
